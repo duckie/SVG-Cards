@@ -1,9 +1,9 @@
 SVG-Cards
-=========m
+=========
 
 ## Intro
 
-The author of the SVG file is David Bellot. It has been [published on Sourceforge](http://svg-cards.sourceforge.net/). I made it available on [GitHub](http://github.com) because it simplifies the process for me when I need it in a project.
+The author of the SVG file is [David Bellot](mailto:david.bellot@free.fr). It has been [published on Sourceforge](http://svg-cards.sourceforge.net/). I made it available on [GitHub](http://github.com) because it simplifies the process for me when I need it in a project.
 
 ## Description
 
